@@ -4,7 +4,7 @@
 
 08:30 - 09:30 Pitches and picking teams
 
-09:30 - 10:00 [Marshmallow challenge!](https://www.youtube.com/watch?v=BLWqjWXkTjQ)
+09:30 - 10:00 [Drawing challenge](https://www.youtube.com/watch?v=8yGhNwDMT-g)
 
 10:00 - 12:30 [Intro to design thinking / Discovery Client Workshop](https://docs.google.com/presentation/d/1iX0pksXxyAOZ741gzEg-dr7eUZqXrLlWqiaD5YyBj1I/edit?usp=sharing)
 
