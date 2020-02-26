@@ -2,17 +2,10 @@
 
 ### Day 1: Design Thinking
 
-08:30 - 09:30 Pitches and picking teams
+- [Drawing challenge](https://www.youtube.com/watch?v=8yGhNwDMT-g): 1hr
 
-09:30 - 10:00 [Drawing challenge](https://www.youtube.com/watch?v=8yGhNwDMT-g)
+- [Intro to design thinking / Discovery Client Workshop](https://docs.google.com/presentation/d/1UswF38W977lShdkBVWnuCSXe6jdPNBfX9RlxyVftJWs/edit?usp=sharing): 6hr
 
-10:00 - 12:30 [Intro to design thinking / Discovery Client Workshop](https://docs.google.com/presentation/d/1iX0pksXxyAOZ741gzEg-dr7eUZqXrLlWqiaD5YyBj1I/edit?usp=sharing)
-
-12:30 - 13:30 LUNCH
-
-13:30 - 15:30 [Define Client Workshop: User Journeys and crazy eights](https://docs.google.com/presentation/d/1gDgZv8Nz8vOCAM2scyqhVXIQZUEbFiccE-QqE1-9HK0/edit?usp=sharing)
-
-15:30 - 16:30 Amal learning
 
 ### Day 2: Figma and creating prototypes
 
@@ -30,7 +23,6 @@
 
 13:00 - 15:30 Work on prototypes
 
-15:30 - 16:30 Amal learning
 
 ### Day 3: Working on prototypes
 
